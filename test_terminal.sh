@@ -1,6 +1,7 @@
 #!/bin/bash
 # remember to use raw link or it will not fetch from github
-# this simply grabs one quote at a time for testing
+# this simply grabs one random quote at a time for testing
+# offers to press q to quit.
 
 # URL of the JSON file on GitHub
 JSON_URL="https://raw.githubusercontent.com/1nam/fetch_quotes/refs/heads/main/you_can_do_it.json"
