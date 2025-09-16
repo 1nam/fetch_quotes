@@ -1,3 +1,4 @@
+{
 [
 "ls - list directory contents",
 "ls -l - long listing format",
@@ -106,3 +107,4 @@
 "vi file.txt - open file in vi editor",
 "vim file.txt - open file in vim editor"
 ]
+}
