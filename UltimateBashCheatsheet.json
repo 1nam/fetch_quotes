@@ -1,5 +1,5 @@
 {
-"quotes": \[
+  "quotes": [
 "ls - list directory contents",
 "ls -l - long listing format",
 "ls -a - list all files including hidden",
