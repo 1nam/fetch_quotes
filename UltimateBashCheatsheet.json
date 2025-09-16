@@ -45,7 +45,6 @@
 {"command": "crontab", "description": "Manage user cron jobs", "examples": \["crontab -l", "crontab -r"]},
 {"command": "systemctl", "description": "Control system services", "examples": \["systemctl status nginx", "systemctl restart nginx"]},
 {"command": "journalctl", "description": "View system logs", "examples": \["journalctl -u nginx", "journalctl -xe"]},
-{"command": "df", "description": "Check disk usage", "examples": \["df -h", "df -T"]},
 {"command": "free", "description": "Display memory usage", "examples": \["free", "free -h"]},
 {"command": "uptime", "description": "Show how long the system has been running", "examples": \["uptime"]},
 {"command": "dmesg", "description": "Print kernel messages", "examples": \["dmesg", "dmesg | tail"]},
