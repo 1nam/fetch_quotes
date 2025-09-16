@@ -1,5 +1,4 @@
-{
-"quotes":
+[
 "ls - list directory contents",
 "ls -l - long listing format",
 "ls -a - list all files including hidden",
@@ -108,4 +107,4 @@
 "nano file.txt - open file in nano editor",
 "vi file.txt - open file in vi editor",
 "vim file.txt - open file in vim editor"
-}
+]
