@@ -1,0 +1,86 @@
+[
+  {
+    "original": "Ogres are like onions.",
+    "beta_os": "Beta OS are like onions… they have layers, and some layers will make you cry if you `rm -rf` the wrong thing."
+  },
+  {
+    "original": "This is the part where you run away.",
+    "beta_os": "This is the part where you panic when an error pops up… but don’t worry, it’s just the Evil Queen testing you."
+  },
+  {
+    "original": "Better out than in, I always say.",
+    "beta_os": "Better `git push` than keep it local, I always say… unless you like debugging conflicts for fun."
+  },
+  {
+    "original": "Donkey, two things I know about you. One: you talk too much. Two: you never listen.",
+    "beta_os": "Terminal, two things I know about you. One: you spam errors. Two: you never do what I tell you… unless I sudo."
+  },
+  {
+    "original": "What are you doing in my swamp?!",
+    "beta_os": "What are you doing in my terminal hole?!"
+  },
+  {
+    "original": "That’ll do, Donkey. That’ll do.",
+    "beta_os": "That command works, beta. That command works."
+  },
+  {
+    "original": "Some of you may die, but it’s a sacrifice I am willing to make.",
+    "beta_os": "Some of your scripts may fail, but it’s a risk I’m willing to take with this beta."
+  },
+  {
+    "original": "I like that boulder. That is a nice boulder.",
+    "beta_os": "I like that package. That is a nice package. Stable… mostly."
+  },
+  {
+    "original": "You were meant to be my knight in shining armor!",
+    "beta_os": "You were meant to be my sudo in shining armor!"
+  },
+  {
+    "original": "It’s not about how you look, it’s what’s inside.",
+    "beta_os": "It’s not about the UI theme, it’s what’s inside your configuration files."
+  },
+  {
+    "original": "You know what else everybody likes? Parfaits.",
+    "beta_os": "You know what else everybody likes? Automated backups."
+  },
+  {
+    "original": "That’s my little secret, I’m always angry.",
+    "beta_os": "That’s my little secret, I’m always in verbose mode."
+  },
+  {
+    "original": "Better out than in, I always say.",
+    "beta_os": "Better `sudo apt upgrade` than leave the system outdated, I always say."
+  },
+  {
+    "original": "I’m a believer!",
+    "beta_os": "I’m a updater!"
+  },
+  {
+    "original": "This is the part where you run away.",
+    "beta_os": "This is the part where you panic when the terminal freezes… just breathe."
+  },
+  {
+    "original": "Life’s not a spectator sport.",
+    "beta_os": "Linux’s not a spectator OS—jump in and break something."
+  },
+  {
+    "original": "Do you know the muffin man?",
+    "beta_os": "Do you know the man who maintains this repo?"
+  },
+  {
+    "original": "Better out than in, I always say.",
+    "beta_os": "Better test in a VM than on your main system, I always say."
+  },
+  {
+    "original": "I like that boulder. That is a nice boulder.",
+    "beta_os": "I like that distro. That is a nice distro. Even in beta."
+  },
+  {
+    "original": "This is my swamp.",
+    "beta_os": "This is my terminal, respect it!"
+  },
+  {
+    "original": "You’re going the right way for a smacked bottom.",
+    "beta_os": "You’re going the wrong way for a merge conflict."
+  }
+]
